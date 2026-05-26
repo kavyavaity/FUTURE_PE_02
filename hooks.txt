@@ -1,3 +1,18 @@
+PROMPT:
+
+Generate 10 short UGC-style hooks for GlowUp Beauty Salon in Mumbai.
+
+Tone:
+Trendy, emotional, feminine, relatable, Instagram/TikTok style.
+
+Target audience:
+Women aged 18–35 interested in beauty, haircare, glow-ups, and self-care.
+
+The hooks should feel authentic and attention-grabbing.
+
+--------------------------------------------------
+
+OUTPUT:
 “POV: your hair looked dead… until you found GlowUp Beauty Salon ✨”
 “Girls… this is your sign to stop ignoring your self-care era 💅”
 “My hair went from ‘what happened to her?’ to main character energy 😭✨”

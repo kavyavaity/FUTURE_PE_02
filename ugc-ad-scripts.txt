@@ -1,3 +1,22 @@
+PROMPT:
+
+Generate 3 UGC-style Instagram Reel ad scripts for GlowUp Beauty Salon in Mumbai.
+
+Include:
+- hook
+- problem
+- transformation moment
+- emotional payoff
+- CTA
+
+Tone:
+Emotional, trendy, feminine, authentic.
+
+The scripts should feel like real customer experiences.
+
+--------------------------------------------------
+
+OUTPUT:
 Script 1 — “Hair Comeback Era”
 
 Hook:

@@ -1,3 +1,21 @@
+PROMPT:
+
+Generate 5 Instagram captions for GlowUp Beauty Salon in Mumbai promoting beauty transformation and self-care.
+
+Tone:
+Trendy, feminine, emotional, conversational.
+
+Include:
+- emojis
+- short CTA
+- beauty/self-care vibe
+- relevant hashtags
+
+The captions should feel suitable for Instagram Reels and UGC beauty content.
+
+--------------------------------------------------
+
+OUTPUT:
 1.
 
 “Sometimes all you need is a fresh blowout, shiny hair, and a little reminder that you’re THAT girl 💖✨

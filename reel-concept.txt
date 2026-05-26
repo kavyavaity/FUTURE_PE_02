@@ -1,3 +1,25 @@
+PROMPT:
+
+Create a cinematic Instagram Reel concept for GlowUp Beauty Salon in Mumbai based on this UGC ad script:
+
+“Girls… my hair was literally in its flop era 😭”
+
+Include:
+- scene-by-scene breakdown
+- camera angles
+- transitions
+- lighting
+- aesthetic direction
+- on-screen text
+- music vibe
+- CTA ending
+
+Style:
+Luxury feminine beauty reel with modern Instagram aesthetics.
+
+--------------------------------------------------
+
+OUTPUT:
 GlowUp Beauty Salon Reel Concept
 
 Featuring GlowUp Beauty Salon
